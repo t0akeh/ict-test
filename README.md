@@ -16,7 +16,7 @@ If you are developing a production application, we recommend using TypeScript wi
 This is a simple web-based logbook application built as part of the ICT Conscript Admission Test.
 
 It helps a platoon record daily events more efficiently than using a paper logbook. The app supports viewing and creating log entries, making situational awareness better in the field.
-challange: for some reason the live demo shows blanck page although in local I works perfectly.
+
 the code probably does not look clean since didnt have much time but  i hope it is good enough.
 
 ---
